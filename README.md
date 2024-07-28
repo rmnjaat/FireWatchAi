@@ -1,4 +1,4 @@
-```markdown
+
 This is  Fire detecting model trained by me and shared my step by step process below
 
 # 🚒 Continuous Fire Detection Project
